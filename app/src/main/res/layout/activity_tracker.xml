@@ -141,7 +141,7 @@
             android:layout_height="wrap_content"
             android:text="@string/quote"
             android:hint="@string/quote_hint"
-            android:onClick="onQuoteButtonClick"
             android:id="@+id/quote_button"/>
+        <!--android:onClick="onQuoteButtonClick"-->
     </LinearLayout>
 </LinearLayout>
