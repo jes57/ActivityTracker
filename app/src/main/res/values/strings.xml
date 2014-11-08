@@ -7,12 +7,16 @@
     <string name="button1_text">Click Me!</string>
     <string name="button2_text">Click Me Too!</string>
     <string name="button3_text">Don\'t Click Me!</string>
-    <string name="question_text_view">Are you happy?</string>
-    <string name="yes_button">Yes</string>
-    <string name="yes_hint">Pick me…</string>
-    <string name="no_button">No</string>
-    <string name="no_hint">Why you no happy?</string>
-    <string name="user_name_hint">Your name</string>
+    <string name="onCreate">onCreate:</string>
+    <string name="initial_value">0</string>
+    <string name="onStart">onStart:</string>
+    <string name="onRestart">onRestart:</string>
+    <string name="onResume">onResume:</string>
+    <string name="onPause">onPause:</string>
+    <string name="onStop">onStop:</string>
+    <string name="onDestroy">onDestroy:</string>
+    <string name="quote">Quote</string>
+    <string name="quote_hint">Launch a new activity to get a quote</string>
 
 
 </resources>

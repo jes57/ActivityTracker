@@ -10,12 +10,126 @@
     android:gravity="center|top"
     tools:context=".Tracker">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/question_text_view"
-        android:textSize="20sp"/>
+    <!-- onCreate-->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onCreate"
+            android:width="105dp"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/initial_value"
+            android:id="@+id/textView_create_value"/>
+    </LinearLayout>
 
+    <!-- onStart-->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onStart"
+            android:width="105dp"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/initial_value"
+            android:id="@+id/textView_start_value"/>
+    </LinearLayout>
+
+    <!--// onRestart-->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onRestart"
+            android:width="105dp"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/initial_value"
+            android:id="@+id/textView_restart_value"/>
+    </LinearLayout>
+
+    <!--// onResume-->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onResume"
+            android:width="105dp"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/initial_value"
+            android:id="@+id/textView_resume_value"/>
+    </LinearLayout>
+
+    <!--//onPause-->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onPause"
+            android:width="105dp"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/initial_value"
+            android:id="@+id/textView_pause_value"/>
+    </LinearLayout>
+
+    <!--// onStop-->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onStop"
+            android:width="105dp"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/initial_value"
+            android:id="@+id/textView_stop_value"/>
+    </LinearLayout>
+
+    <!--// onDestroy-->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/onDestroy"
+            android:width="105dp"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/initial_value"
+            android:id="@+id/textView_destroy_value"/>
+    </LinearLayout>
+
+    <!--// Launch Quotes-->
     <LinearLayout
 
         android:layout_width="wrap_content"
@@ -25,29 +139,9 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/yes_button"
-            android:hint="@string/yes_hint"
-            android:onClick="onYesButtonClick"
-            android:id="@+id/answer_yes_button"/>
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/no_button"
-            android:hint="@string/no_hint"
-            android:onClick="onNoButtonClick"
-            android:id="@+id/answer_no_button"/>
-        </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-        <EditText
-            android:layout_width="200dp"
-            android:layout_height="50dp"
-            android:inputType="textPersonName"
-            android:hint="@string/user_name_hint"
-            android:id="@+id/users_name_edit_text"/>
-        </LinearLayout>
+            android:text="@string/quote"
+            android:hint="@string/quote_hint"
+            android:onClick="onQuoteButtonClick"
+            android:id="@+id/quote_button"/>
+    </LinearLayout>
 </LinearLayout>

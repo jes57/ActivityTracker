@@ -1,5 +1,6 @@
 package com.garufa.activitytracker;
 
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -7,31 +8,39 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 
 public class Tracker extends Activity {
-    private Button answerYesButton, answerNoButton;
-    private EditText usersNameEditText;
+
+    // Create keys to save state when Android decides to kill your activity
+    private static final String CREATE_KEY = "create";
+
+    // String for LogCat documentation
+    private final static String TAG = "Activity Tracker";
+
+    // Variables for lifecycle tracking
+    private int create = 0, start = 0, restart = 0, resume = 0, pause = 0, stop = 0, destroy = 0;
+
+    private Button quoteButton;
+    private TextView textView_create, textView_start, textView_restart, textView_resume,
+                     textView_pause, textView_stop, textView_destroy;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tracker);
 
-        answerYesButton = (Button) findViewById(R.id.answer_yes_button);
-        answerNoButton = (Button) findViewById(R.id.answer_no_button);
-        usersNameEditText = (EditText) findViewById(R.id.users_name_edit_text);
+        quoteButton = (Button) findViewById(R.id.quote_button);
 
-//        final TextView firstTextView = (TextView) findViewById(R.id.textView);
-//
-//        Button firstButton = (Button) findViewById(R.id.button);
-//
-//        firstButton.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                firstTextView.setText("You clicked!");
-//            }
-//        });
+        textView_create = (TextView) findViewById(R.id.textView_create_value);
+        textView_destroy = (TextView) findViewById(R.id.textView_destroy_value);
+        textView_pause = (TextView) findViewById(R.id.textView_pause_value);
+        textView_restart = (TextView) findViewById(R.id.textView_restart_value);
+        textView_resume = (TextView) findViewById(R.id.textView_resume_value);
+        textView_start = (TextView) findViewById(R.id.textView_start_value);
+        textView_stop = (TextView) findViewById(R.id.textView_stop_value);
+        textView_stop = (TextView) findViewById(R.id.textView_stop_value);
     }
 
 
@@ -54,22 +63,6 @@ public class Tracker extends Activity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void onYesButtonClick(View view) {
-
-        String usersName = String.valueOf(usersNameEditText.getText());
-
-        String yourYesResponse = "That is great " + usersName;
-
-        Toast.makeText(this, yourYesResponse, Toast.LENGTH_SHORT).show();
-
+    public void onQuoteButtonClick(View view) {
     }
-    public void onNoButtonClick(View view) {
-
-        String usersName = String.valueOf(usersNameEditText.getText());
-
-        String yourNoResponse = "That is awful " + usersName;
-
-        Toast.makeText(this, yourNoResponse, Toast.LENGTH_LONG).show();
-    }
-
 }
