@@ -16,6 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/close_button"
-        android:id="@+id/button_close"/>
+        android:id="@+id/button_close"
+        android:padding="@dimen/activity_vertical_margin"/>
         <!--android:onClick="onCloseButtonClick"/>-->
 </LinearLayout>

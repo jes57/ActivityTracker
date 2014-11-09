@@ -16,6 +16,13 @@
     <string name="quote_hint">Launch a new activity to get a quote</string>
     <string name="close_button">Close</string>
     <string name="intial_quote_text">Quote will appear here...</string>
+    <string-array name="quote_array">
+        <item>Baseball is 90% mental and the other half is physical \n- Yogi Berra</item>
+        <item>Nobody goes there any more. It\'s too crowded.\n- Yogi Berra</item>
+        <item>Half the lies they tell about me aren\'t true.\n- Yogi Berra</item>
+        <item>It gets late early out there.\n- Yogi Berra</item>
+        <item>A nickle ain\'t worth a dime anymore.\n- Yogi Berra</item>
+    </string-array>
 
 
 </resources>

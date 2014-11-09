@@ -17,7 +17,10 @@ import android.widget.Toast;
 public class Tracker extends Activity {
 
     // Create keys to save state when Android decides to kill your activity
-    private static final String CREATE_KEY = "create";
+    private static final String CREATE_KEY = "create", START_KEY = "start", RESTART_KEY = "restart",
+                                RESUME_KEY = "resume", PAUSE_KEY = "pause", STOP_KEY = "stop",
+                                DESTROY_KEY = "destroy";
+
 
     // String for LogCat documentation
     private final static String TAG = "Activity Tracker";
@@ -35,21 +38,16 @@ public class Tracker extends Activity {
         setContentView(R.layout.activity_tracker);
 
         if (savedInstanceState != null){
-            create_value    = savedInstanceState.getInt("create_value");
-            start_value     = savedInstanceState.getInt("start_value");
-            restart_value   = savedInstanceState.getInt("restart_value");
-            resume_value    = savedInstanceState.getInt("resume_value");
-            pause_value     = savedInstanceState.getInt("pause_value");
-            stop_value      = savedInstanceState.getInt("stop_value");
-            destroy_value   = savedInstanceState.getInt("destroy_value");
+            create_value    = savedInstanceState.getInt(CREATE_KEY);
+            start_value     = savedInstanceState.getInt(START_KEY);
+            restart_value   = savedInstanceState.getInt(RESTART_KEY);
+            resume_value    = savedInstanceState.getInt(RESUME_KEY);
+            pause_value     = savedInstanceState.getInt(PAUSE_KEY);
+            stop_value      = savedInstanceState.getInt(STOP_KEY);
+            destroy_value   = savedInstanceState.getInt(DESTROY_KEY);
+            Log.i(TAG, "State restored");
         } else {
-            create_value    = 0;
-            start_value     = 0;
-            restart_value   = 0;
-            resume_value    = 0;
-            pause_value     = 0;
-            stop_value      = 0;
-            destroy_value   = 0;
+            Log.i(TAG, "Unable to find previous state...");
         }
 
 
@@ -60,7 +58,6 @@ public class Tracker extends Activity {
         textView_restart    = (TextView) findViewById(R.id.textView_restart_value);
         textView_resume     = (TextView) findViewById(R.id.textView_resume_value);
         textView_start      = (TextView) findViewById(R.id.textView_start_value);
-        textView_stop       = (TextView) findViewById(R.id.textView_stop_value);
         textView_stop       = (TextView) findViewById(R.id.textView_stop_value);
 
         quoteButton.setOnClickListener(new View.OnClickListener() {
@@ -79,23 +76,15 @@ public class Tracker extends Activity {
 
     @Override
     protected void onSaveInstanceState(Bundle outState) {
-        outState.putInt("create_value",     create_value    );
-        outState.putInt("destroy_value",    destroy_value   );
-        outState.putInt("pause_value",      pause_value     );
-        outState.putInt("restart_value",    restart_value   );
-        outState.putInt("resume_value",     resume_value    );
-        outState.putInt("start_value",      start_value     );
-        outState.putInt("stop_value",       stop_value      );
+        outState.putInt(CREATE_KEY,     create_value    );
+        outState.putInt(DESTROY_KEY,    destroy_value   );
+        outState.putInt(PAUSE_KEY,      pause_value     );
+        outState.putInt(RESTART_KEY,    restart_value   );
+        outState.putInt(RESUME_KEY,     resume_value    );
+        outState.putInt(START_KEY,      start_value     );
+        outState.putInt(STOP_KEY,       stop_value      );
         super.onSaveInstanceState(outState);
     }
-
-//    @Override
-//    protected void onRestoreInstanceState(Bundle savedInstanceState) {
-//        super.onRestoreInstanceState(savedInstanceState);
-//
-//        create_value = savedInstanceState.getInt("create_value");
-//        Log.i(TAG, "Restoring the instance state. Create_value = " + create_value);
-//    }
 
     public void displayLifeCycleCounts() {
         textView_create.setText(String.valueOf(create_value));
