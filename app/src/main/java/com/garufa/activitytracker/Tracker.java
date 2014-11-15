@@ -83,6 +83,7 @@ public class Tracker extends Activity {
         outState.putInt(RESUME_KEY,     resume_value    );
         outState.putInt(START_KEY,      start_value     );
         outState.putInt(STOP_KEY,       stop_value      );
+        Log.i(TAG, "Saving instance");
         super.onSaveInstanceState(outState);
     }
 
@@ -157,9 +158,9 @@ public class Tracker extends Activity {
 
     @Override
     protected void onDestroy() {
-        super.onDestroy();
         Log.i(TAG, "Entered the onDestroy() method");
         destroy_value++;
         displayLifeCycleCounts();
+        super.onDestroy();
     }
 }

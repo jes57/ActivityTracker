@@ -30,11 +30,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5828f0c-30e9-4ac4-8bf1-0448925796eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/QuoteScreen.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/QuoteScreen.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/Tracker.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/Tracker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/quote_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/quote_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ActivityTracker.iws" />
@@ -61,88 +57,54 @@
       <file leaf-file-name="Tracker.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/Tracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="599" max-vertical-offset="2516">
-              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
-              <folding>
-                <element signature="e#2738#2992#0" expanded="true" />
-                <element signature="e#2981#2982#0" expanded="true" />
-                <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-                <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="2924">
+              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuoteScreen.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="QuoteScreen.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/QuoteScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="1020">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#943#944#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.61748016" vertical-offset="0" max-vertical-offset="881">
+              <caret line="42" column="37" selection-start-line="20" selection-start-column="21" selection-end-line="42" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="quote_layout.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/quote_layout.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.074074" vertical-offset="0" max-vertical-offset="476">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-              <folding>
-                <element signature="e#355#382#0" expanded="true" />
-                <element signature="e#448#481#0" expanded="true" />
-                <element signature="e#607#629#0" expanded="true" />
-                <element signature="e#693#726#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="476">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_tracker.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.777779" vertical-offset="1907" max-vertical-offset="2601">
-              <caret line="142" column="45" selection-start-line="142" selection-start-column="45" selection-end-line="142" selection-end-column="45" />
-              <folding>
-                <element signature="e#229#264#0" expanded="true" />
-                <element signature="e#290#325#0" expanded="true" />
-                <element signature="e#349#382#0" expanded="true" />
-                <element signature="e#409#442#0" expanded="true" />
-                <element signature="e#810#828#0" expanded="true" />
-                <element signature="e#1041#1064#0" expanded="true" />
-                <element signature="e#1407#1424#0" expanded="true" />
-                <element signature="e#1637#1660#0" expanded="true" />
-                <element signature="e#2006#2025#0" expanded="true" />
-                <element signature="e#2238#2261#0" expanded="true" />
-                <element signature="e#2608#2626#0" expanded="true" />
-                <element signature="e#2839#2862#0" expanded="true" />
-                <element signature="e#3206#3223#0" expanded="true" />
-                <element signature="e#3436#3459#0" expanded="true" />
-                <element signature="e#3802#3818#0" expanded="true" />
-                <element signature="e#4031#4054#0" expanded="true" />
-                <element signature="e#4399#4418#0" expanded="true" />
-                <element signature="e#4631#4654#0" expanded="true" />
-                <element signature="e#5048#5063#0" expanded="true" />
-                <element signature="e#5089#5109#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
           </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2601">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58514494" vertical-offset="0" max-vertical-offset="578">
-              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="578">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -151,7 +113,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561">
               <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
               <folding />
             </state>
@@ -174,6 +136,10 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="E:\Users\Google Drive\Android\keystore.jks" />
+    <option name="KEY_ALIAS" value="android development class" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -853,10 +819,10 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/QuoteScreen.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/quote_layout.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/Tracker.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/QuoteScreen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/Tracker.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/quote_layout.xml" />
       </list>
     </option>
   </component>
@@ -1167,8 +1133,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1194,6 +1160,10 @@
     <property name="DEBUGGABLE_DEVICE" value="samsung-sm_n910v-0e2c6576" />
     <property name="DEBUGGABLE_PROCESS" value="com.garufa.activitytracker" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tutorial" />
+    <property name="ExportApk.ApkPath" value="E:\Users\Code\GitHub\Android\ActivityTracker\app" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
@@ -1388,22 +1358,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33443344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33443344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26385927" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3542354" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1411,13 +1378,16 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26385927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26385927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39957035" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1465,45 +1435,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
           <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1669" max-vertical-offset="2601">
           <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -1534,45 +1478,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
           <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1669" max-vertical-offset="2601">
           <caret line="130" column="0" selection-start-line="108" selection-start-column="47" selection-end-line="130" selection-end-column="0" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -1603,45 +1521,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="1258">
           <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1669" max-vertical-offset="2601">
           <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -1672,45 +1564,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
           <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="177" max-vertical-offset="1003">
           <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -1741,45 +1607,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="952">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="595">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -1810,45 +1650,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="374">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -1879,45 +1693,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
@@ -1932,45 +1720,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="374">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
@@ -1985,45 +1747,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
@@ -2063,90 +1799,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.777779" vertical-offset="1907" max-vertical-offset="2601">
-          <caret line="142" column="45" selection-start-line="142" selection-start-column="45" selection-end-line="142" selection-end-column="45" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#810#828#0" expanded="true" />
-            <element signature="e#1041#1064#0" expanded="true" />
-            <element signature="e#1407#1424#0" expanded="true" />
-            <element signature="e#1637#1660#0" expanded="true" />
-            <element signature="e#2006#2025#0" expanded="true" />
-            <element signature="e#2238#2261#0" expanded="true" />
-            <element signature="e#2608#2626#0" expanded="true" />
-            <element signature="e#2839#2862#0" expanded="true" />
-            <element signature="e#3206#3223#0" expanded="true" />
-            <element signature="e#3436#3459#0" expanded="true" />
-            <element signature="e#3802#3818#0" expanded="true" />
-            <element signature="e#4031#4054#0" expanded="true" />
-            <element signature="e#4399#4418#0" expanded="true" />
-            <element signature="e#4631#4654#0" expanded="true" />
-            <element signature="e#5048#5063#0" expanded="true" />
-            <element signature="e#5089#5109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/quote_layout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.074074" vertical-offset="0" max-vertical-offset="476">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="e#355#382#0" expanded="true" />
-            <element signature="e#448#481#0" expanded="true" />
-            <element signature="e#607#629#0" expanded="true" />
-            <element signature="e#693#726#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/sdk/sources/android-20/android/app/Activity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13708514" vertical-offset="7" max-vertical-offset="90899">
           <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="578">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2601">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/quote_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="476">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/Tracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="2703">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/QuoteScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="1020">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/garufa/activitytracker/Tracker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="599" max-vertical-offset="2516">
-          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
-          <folding>
-            <element signature="e#2738#2992#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="method#onCreateOptionsMenu#0;class#Tracker#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#Tracker#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58514494" vertical-offset="0" max-vertical-offset="578">
-          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.61748016" vertical-offset="0" max-vertical-offset="881">
+          <caret line="42" column="37" selection-start-line="20" selection-start-column="21" selection-end-line="42" selection-end-column="37" />
           <folding />
         </state>
       </provider>
